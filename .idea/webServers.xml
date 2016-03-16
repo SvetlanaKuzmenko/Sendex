@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ff538587-5fe8-4486-bffc-e236d18c20a5" name="ModxCloud" url="http://c0078.paas1.fra.modxcloud.com">
+        <fileTransfer host="c0078.paas1.fra.modxcloud.com" port="22" accessType="SFTP" username="c0078">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
